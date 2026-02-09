@@ -1067,7 +1067,7 @@ a {
 .cid-v65qYDzXel {
   padding-top: 10rem;
   padding-bottom: 10rem;
-  background-image: url("../../../assets/images/43-1-1024x768.webp");
+  background-image: url("../../../assets/images/pawel-czerwinski-cdyqjobk1r8-unsplash.webp");
 }
 .cid-v65qYDzXel .mbr-fallback-image.disabled {
   display: none;
@@ -2132,13 +2132,15 @@ a {
     left: -1rem;
   }
 }
-.cid-v6N8OK9Hb1 {
+.cid-vaz9UqDdIp {
+  padding-top: 6rem;
+  padding-bottom: 6rem;
   background-image: url("../../../assets/images/pawel-czerwinski-cdyqjobk1r8-unsplash.webp");
 }
-.cid-v6N8OK9Hb1 .mbr-fallback-image.disabled {
+.cid-vaz9UqDdIp .mbr-fallback-image.disabled {
   display: none;
 }
-.cid-v6N8OK9Hb1 .mbr-fallback-image {
+.cid-vaz9UqDdIp .mbr-fallback-image {
   display: block;
   background-size: cover;
   background-position: center center;
@@ -2147,36 +2149,21 @@ a {
   position: absolute;
   top: 0;
 }
-.cid-v6N8OK9Hb1 .social-row .soc-item {
-  display: inline-block;
-  text-align: center;
-  margin-bottom: 1rem;
-  margin-right: .7rem;
+.cid-vaz9UqDdIp .row {
+  align-items: center;
 }
-.cid-v6N8OK9Hb1 .social-row .soc-item .mbr-iconfont {
-  font-size: 32px;
-  border-radius: 50%;
-  padding: 0.6rem;
-  border: 2px solid #232323;
-  transition: all 0.3s;
-  color: #232323;
+@media (max-width: 991px) {
+  .cid-vaz9UqDdIp .image-wrapper {
+    padding: 1rem;
+  }
 }
-.cid-v6N8OK9Hb1 .social-row .soc-item .mbr-iconfont:hover {
-  background-color: #232323;
-  color: #ffffff;
+@media (min-width: 992px) {
+  .cid-vaz9UqDdIp .text-wrapper {
+    padding: 0 2rem;
+  }
 }
-.cid-v6N8OK9Hb1 .mbr-section-title {
-  text-align: center;
-  color: #5b5238;
-}
-.cid-v6N8OK9Hb1 .mbr-section-subtitle {
-  text-align: center;
-}
-.cid-v6N8OK9Hb1 .mbr-text,
-.cid-v6N8OK9Hb1 .mbr-section-btn,
-.cid-v6N8OK9Hb1 .social-row {
-  text-align: center;
-  color: #000000;
+.cid-vaz9UqDdIp .mbr-section-title {
+  color: #42391c;
 }
 .cid-v6N8OLMfjX {
   padding-top: 5rem;
